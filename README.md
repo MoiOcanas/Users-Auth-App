@@ -1,6 +1,8 @@
 # Users Auth App
 App to authenticate users using the MEAN Stack and JWT.
 
+![users-app](https://user-images.githubusercontent.com/40370334/79811902-e7e45a00-833c-11ea-9691-8247c6e7c73c.PNG)
+
 ## Installation
 
 Clone the repo running:
